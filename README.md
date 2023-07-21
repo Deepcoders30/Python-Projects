@@ -10,3 +10,5 @@ player reaches the maximum score.
 # Project 2 -> Story Generator
 
 Enter words according to the given attributes and generate a short story.
+
+# Project 3 -> Math Timed Challenge
